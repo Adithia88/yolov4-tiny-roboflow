@@ -5,7 +5,7 @@ This is an implementation of object detection tiny yolov4 using google colab
 
 ![tiny yolov4 Sample](assets/9.png)
 
-Dataset (Train) : 
+Dataset (Train) : https://drive.google.com/file/d/1DqB2xLYCWnWeSjFgVw26OyugNgxI-CmX/view?usp=sharing
 
 The repository includes:
 * Using roboflow to split dataset
@@ -65,21 +65,21 @@ Roboflow web ( https://app.roboflow.com/ ) || make your account first if u dont 
 
 * upload yolov4 tiny roboflow.ipynb to gcolab
 
-![Important Path](assets/10.PNG)
+![Important Path](assets/10.png)
 
 
 2. change with your link where u got from roboflow, this is link dataset 
 
-![roboflow code](assets/11.PNG)
+![roboflow code](assets/11.png)
 
 3. change the number of class, in this case i have 3 class (kitkat, snicker and galbo)
 
-![class](assets/12.PNG)
+![class](assets/12.png)
 
 4. just execute the codes below, until testing code
 
 # Testing
 
-![Testing](assets/9.PNG)
+![Testing](assets/9.png)
 
 
