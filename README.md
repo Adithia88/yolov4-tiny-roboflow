@@ -11,6 +11,7 @@ The repository includes:
 * Using roboflow to split dataset
 * train yolov4 tiny
 * testing on photo using yolov4 tiny
+* convert to tiny-tflite
 
 
 # Getting Started
@@ -81,5 +82,15 @@ Roboflow web ( https://app.roboflow.com/ ) || make your account first if u dont 
 # Testing
 
 ![Testing](assets/9.png)
+
+
+# convert to tiny_tflite
+
+1. if u want to convert it to tflite use this codes "yolov4 tiny_convert_tflite.ipynb" in google colab , this codes just add convert yolov4 tiny to tflite
+
+![Convert](assets/99.png)
+
+
+
 
 
